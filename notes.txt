@@ -1,0 +1,5 @@
+Testing:
+	https://github.com/google/googletest
+	https://github.com/google/googletest/blob/master/googlemock
+Playthrough:
+	Keep track of position intrinsicaly (track how much is moved from initial condition + PID(?) whenever retro-tape is identified)
